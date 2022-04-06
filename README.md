@@ -8,3 +8,4 @@
 - 😄 Pronouns: His
 - ⚡ Fun fact: I listen to music everytime. Lol
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unique-Red&layout=compact">
