@@ -3,9 +3,35 @@
 
 - 🔭 I’m currently working on hex website
 - 🌱 I’m currently learning C programming and Golang
-- 💬 Ask me about anything python
-- 📫 How to reach me: vnoah410@gmail.com
+- 💬 Ask me about backend
 - 😄 Pronouns: His
 - ⚡ Fun fact: I listen to music everytime. Lol
 
-<img src="https://github-readme-stats.vercel.app/api?username=Unique-Red&theme=highcontrast&show_icons=true&count_private=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unique-Red&layout=compact">
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+  
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+</p>
+
+## 📊 My Github Stats
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Unique-Red&theme=highcontrast&show_icons=true&count_private=true">
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unique-Red&layout=compact">
+<br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/noah-victor-44b37b221/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/RedX_13/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/iamredx13/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p>
