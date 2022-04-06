@@ -1,4 +1,4 @@
-### Hi there, I'm RedX 👋
+### Hi there, I'm Noah 👋
 
 
 - 🔭 I’m currently working on hex website
