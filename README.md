@@ -21,7 +21,7 @@
 <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
-## Connect with me:
+Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/noah-victor-44b37b221/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
