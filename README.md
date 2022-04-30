@@ -4,7 +4,6 @@
 - 🔭 I’m currently open to internships and junior roles
 - 🌱 I’m currently learning C programming in ALX and Golang personally. I have knowledge of python(flask), html and css
 - 💬 Ask me about backend
-- 😄 Pronouns: His
 - ⚡ Fun fact: I listen to music everytime. Lol
 
 
