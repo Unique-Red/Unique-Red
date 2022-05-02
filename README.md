@@ -1,7 +1,7 @@
 ### Hi there, I'm Redx 👋
 
 - 🌱 I’m currently learning C programming in ALX and Golang personally. I have knowledge of python(flask), html and css
-- 💬 Ask me about backend
+- 💬 Ask me what more you'll like to know about me
 - ⚡ Fun fact: I listen to music everytime. Lol
 - 🔭 I’m currently open to internships and junior roles
 
