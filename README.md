@@ -9,7 +9,7 @@
 
 ## 📊 My Github Stats
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Unique-Red&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Unique-Red&theme=black-ice&hide_border=true&stroke=0000&background=red">
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unique-Red&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
 <br/>
