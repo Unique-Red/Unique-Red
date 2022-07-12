@@ -9,15 +9,12 @@
 
 ## 📊 My Github Stats
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Unique-Red&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Unique-Red&theme=black-ice&hide_border=true&stroke=0000&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF">
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unique-Red&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unique-Red&langs_count=8&count_private=true&layout=compact&theme=dracula&hide_border=true&bg_color=000000&color=FF0000">
+<img src="https://github-readme-stats.vercel.app/api?username=Unique-Red&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=000000">
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Unique-Red&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
-<br/>
-<img src="https://activity-graph.herokuapp.com/graph?username=Unique-Red&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true">
-<br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<img src="https://activity-graph.herokuapp.com/graph?username=Unique-Red&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true">
 <br/>
 There's a lot more. Connect with me:
 <p align="left">
