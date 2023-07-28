@@ -30,7 +30,7 @@
   - :zap: In my free time, I read tech articles or just cook.
 
 ## 📊 My Github Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Unique-Red&theme=black-ice&hide_border=true&stroke=0000&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF" style="width:100%">
+![Noah's github stats](https://github-readme-stats.vercel.app/api?username=unique-red&show_icons=true&hide_border=true)
 <br/>
 There's a lot more. Connect with me:
 <p align="left">
