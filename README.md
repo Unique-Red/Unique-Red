@@ -11,24 +11,50 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=unique-red&style=flat-square&color=blue" alt=""/>
   <h1>
-  Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
-### 👨‍💻 About Me :
-I'm Noah, a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🚀 I contribute to frontend and backend development for web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time, I enjoy reading tech articles or cooking.
+A proactive software engineer with extensive expertise in Python, Flask, and Django, committed to developing resilient and scalable backend solutions. Proficient in web development, I tackle challenges with strategic problem-solving and meticulous precision. With a dedication to delivering excellence, I consistently achieve impactful outcomes in all my endeavors. My portfolio encompasses a wide array of [projects](https://github.com/unique-red?tab=repositories), and I'm enthusiastic about collaborating on innovative initiatives. Let's collaborate and bring extraordinary ideas to life!
+
+
+**Here's a quick summary about me**:
+
+- 😊 Pronouns: he/him
+- 💡 Fun fact: I love music, I enjoy brainstorming creative solutions to problems, and also enjoy debugging 😊.
+- 🌱 I graduated from [AltSchool Africa](https://www.altschoolafrica.com/) School of Engineering and [ALX Africa](https://www.alxafrica.com/) simultaneously where I gained hands-on experience in software development.
+- 💼 A freelance Software Engineer with experience in technical writing and community management.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1bE_2UOK4bfAsYY515xEfhBNEXAv01P4E/view?usp=sharing) and contact me at noahuseghan@gmail.com.
+
+---
+#### Tech Stacks:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+---
+
 
 ## 📊 My Github Stats
-![Noah's github stats](https://github-readme-stats.vercel.app/api?username=unique-red&show_icons=true&hide_border=true)
-<br/>
-Connect with me:
-<p align="left">
-  <a href = "https://www.linkedin.com/in/noahuseghan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href = "https://twitter.com/RedX_13/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-</p>
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=unique-red&show_icons=true&include_all_commits=true&hide_border=true" alt="Noah's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unique-red&langs_count=8&layout=compact&hide_border=true" alt="Noah's GitHub stats" />
+</div>
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=unique-red&theme=black-ice&hide_border=true&stroke=0000&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF" style="width:100%">
+<br>
+
+![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake.svg)
