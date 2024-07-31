@@ -24,7 +24,7 @@ A proactive software engineer with extensive expertise in Python, Flask, and Dja
 - 💡 Fun fact: I love music, I enjoy brainstorming creative solutions to problems, and also enjoy debugging 😊.
 - 🌱 I graduated from [AltSchool Africa](https://www.altschoolafrica.com/) School of Engineering and [ALX Africa](https://www.alxafrica.com/) simultaneously where I gained hands-on experience in software development.
 - 💼 A freelance Software Engineer with experience in technical writing and community management.
-- 📫 You can [view my resume](https://drive.google.com/file/d/1eYb2h5UeoQ56TsvHOqA7hSLNqER3WePD/view?usp=sharing) and contact me at noahuseghan@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1_no-q7peBng_jz8DD3hSPKi8ORT1xquM/view?usp=sharing) and contact me at noahuseghan@gmail.com.
 
 ---
 #### Tech Stacks:
