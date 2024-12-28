@@ -15,16 +15,7 @@
   </h1>
 </div>
 
-A proactive software engineer with extensive expertise in Python, Flask, and Django, committed to developing resilient and scalable backend solutions. Proficient in web development, I tackle challenges with strategic problem-solving and meticulous precision. With a dedication to delivering excellence, I consistently achieve impactful outcomes in all my endeavors. My portfolio encompasses a wide array of [projects](https://github.com/unique-red?tab=repositories), and I'm enthusiastic about collaborating on innovative initiatives. Let's collaborate and bring extraordinary ideas to life!
-
-
-**Here's a quick summary about me**:
-
-- 😊 Pronouns: he/him
-- 💡 Fun fact: I love music, I enjoy brainstorming creative solutions to problems, and also enjoy debugging 😊.
-- 🌱 I have a diploma in backend engineering from [AltSchool Africa](https://www.altschoolafrica.com/) and [ALX Africa](https://www.alxafrica.com/) simultaneously where I gained hands-on experience in software development.
-- 💼 I am currently a freelance Software Engineer with experience in technical writing and community management.
-- 📫 Contact me at noahuseghan@gmail.com.
+A software developer with over 3 years of experience
 
 ---
 #### Tech Stacks:
