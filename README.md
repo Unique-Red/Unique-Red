@@ -11,7 +11,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=unique-red&style=flat-square&color=blue" alt=""/>
   <h1>
-  Welcome!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I software developer with over 3 years of experience
+  Welcome!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I am software developer with over 3 years of experience
   </h1>
 </div>
 
